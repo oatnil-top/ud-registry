@@ -10,9 +10,11 @@
       },
       "version": "1.0.0",
       "minProtocol": 1,
-      "extensions": [".ipynb"],
+      "extensions": [
+        ".ipynb"
+      ],
       "file": "plugins/ipynb-viewer/ipynb-viewer.html",
-      "sha256": "f1184fd40a5981289aad13b2db8d30b1a89bab427faca5bb15a552eaf4d4288f",
+      "sha256": "f1184fd40a5981289aad13b2db8d30b1a89bab427faca5bb15a552eaf4d4dead",
       "size": 199181,
       "author": "oatnil",
       "homepage": "https://github.com/oatnil-top/ud-all-in-one"
