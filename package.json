@@ -1,0 +1,12 @@
+{
+  "name": "ud-registry",
+  "private": true,
+  "description": "Validation tooling for the UnDercontrol plugin registry manifest (plugins.json).",
+  "scripts": {
+    "validate": "node scripts/validate-manifest.mjs"
+  },
+  "devDependencies": {
+    "ajv": "8.17.1",
+    "ajv-formats": "3.0.1"
+  }
+}
